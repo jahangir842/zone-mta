@@ -3,8 +3,11 @@ node_modules
 npm-debug.log
 data/
 .lev_history
+temp_auto_push.bat
 keys/*.pem
 test/queuetest
 config/production.*
 config/development.*
 *v8.log
+.gitignore
+branch_structure.json

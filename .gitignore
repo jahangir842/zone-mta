@@ -10,5 +10,4 @@ config/production.*
 config/development.*
 *v8.log
 package-lock.json*
-.gitignore
 branch_structure.json

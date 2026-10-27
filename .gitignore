@@ -9,5 +9,4 @@ test/queuetest
 config/production.*
 config/development.*
 *v8.log
-.gitignore
 branch_structure.json
